@@ -15,9 +15,9 @@ class Person():
         if self.age < 13:
             print("You are young.")
         elif self.age>=13 and self.age<18:
-            print("Yor are a teenager.")
+            print("You are a teenager.")
         else:
-            print("Yor are old.")
+            print("You are old.")
  
 if __name__ == "__main__":
     n = int(input())
