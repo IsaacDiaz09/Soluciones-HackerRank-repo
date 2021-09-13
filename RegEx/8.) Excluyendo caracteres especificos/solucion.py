@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/excluding-specific-characters/problem?isFullScreen=true
 import re
 """
 First caracter should not be a digit
